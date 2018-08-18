@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:id="@+id/text_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+
+    <Button android:id="@+id/radio_answer1"
+        android:layout_width="match_parent"
+        android:background="#fafafa"
+        android:layout_height="wrap_content"
+        android:text="answer1"
+        android:onClick="onRadioButtonClicked"/>
+
+    <Button android:id="@+id/radio_answer2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fafafa"
+        android:text="answer2"
+        android:onClick="onRadioButtonClicked"/>
+
+    <Button android:id="@+id/radio_answer3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fafafa"
+        android:text="answer3"
+        android:onClick="onRadioButtonClicked"/>
+
+    <Button android:id="@+id/radio_answer4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fafafa"
+        android:text="answer4"
+        android:onClick="onRadioButtonClicked"/>
+
+</LinearLayout>

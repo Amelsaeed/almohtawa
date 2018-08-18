@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "246317958119",
+    "firebase_url": "https://almohtawa-7b74d.firebaseio.com",
+    "project_id": "almohtawa-7b74d",
+    "storage_bucket": "almohtawa-7b74d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246317958119:android:1e0ba7e9004fe14d",
+        "android_client_info": {
+          "package_name": "com.example.ahmedmagdy.almohtawa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246317958119-sm7pkt197ase94aftfoqqkucef2ji1ku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ahmedmagdy.almohtawa",
+            "certificate_hash": "df6f903e0e2c577fe328029b8fc22207199b870a"
+          }
+        },
+        {
+          "client_id": "246317958119-4strs238g5nrijfk1khtujkg5ilbegd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl8CI1jXbusPqIiB4z9KPwHymgikCgxeg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246317958119-4strs238g5nrijfk1khtujkg5ilbegd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

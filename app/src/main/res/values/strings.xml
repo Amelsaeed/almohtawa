@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">almohtawa</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string-array name="grade_array">
+        <item>Primary first grade</item>
+        <item>Primary second grade</item>
+        <item>Primary third grade</item>
+        <item>Primary fourth grade</item>
+        <item>Primary fifth grade</item>
+        <item>Primary sixth grade</item>
+        <item>Preparatory first grade</item>
+        <item>Preparatory second grade</item>
+        <item>Preparatory third grade</item>
+        <item>Secondary first grade</item>
+        <item>Secondary Second grade</item>
+        <item>Secondary third grade</item>
+
+    </string-array>
+</resources>
